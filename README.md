@@ -1,5 +1,6 @@
 # Мое портфолио
-![Group 11](https://github.com/user-attachments/assets/8672e3cb-1d4f-4d3e-902d-da6a97bd1f86)
+![Group 11 (1)](https://github.com/user-attachments/assets/0bd29c56-c672-4c02-af9e-afbb388f1352)
+
 
 
 ## Мои Сертификаты
