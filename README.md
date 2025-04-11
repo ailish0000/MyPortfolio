@@ -4,6 +4,7 @@
 
 ## Мои Сертификаты
 ![Моя фотка2](https://i.ibb.co/7tWDDZ7/certificate-2.jpg)
+![Моя фотка3](https://i.ibb.co/TDprDrpw/Git.jpg)
 ![Моя фотка3](https://i.ibb.co/ZzkDBdGZ/certificate-3.jpg)
-![Моя фотка4](https://i.ibb.co/vv6phrgM/certificate.jpg)
+![Моя фотка5](https://i.ibb.co/vv6phrgM/certificate.jpg)
 
